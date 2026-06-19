@@ -40,13 +40,13 @@ Ma'am Divine Caabay
 
 ## Screenshots
 
-![screenshot1](screenshot/1.png)
+![screenshot1](screenshot/1.jpg)
 
-![screenshot2](screenshot/2.png)
+![screenshot2](screenshot/2.jpg)
 
-![screenshot3](screenshot/3.png)
+![screenshot3](screenshot/3.jpg)
 
-![screenshot4](screenshot/4.png)
+![screenshot4](screenshot/4.jpg)
 
 
 ## Future Improvements
